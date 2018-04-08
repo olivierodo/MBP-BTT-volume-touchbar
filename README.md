@@ -3,7 +3,7 @@
 ## Description
 
 If you have a MacBook Pro with the touchbar this project will help you to customize your touchbar by :
- - Displaying the current connected wifi network
+ - Displaying the current volume of your sound
 
 Example Full bar (last widget) :
 
